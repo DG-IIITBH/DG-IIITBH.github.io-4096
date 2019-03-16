@@ -130,7 +130,7 @@ HTMLActuator.prototype.message = function (won) {
 
   this.messageContainer.classList.add(type);
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
-  alert("Jeet ke kya ukada");
+  alert("JEET KE KYA UKADEGA JA PADLE BETA");
 };
 
 HTMLActuator.prototype.clearMessage = function () {
